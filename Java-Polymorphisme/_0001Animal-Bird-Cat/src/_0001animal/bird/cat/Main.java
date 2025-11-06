@@ -17,8 +17,5 @@ public class Main {
         animal.makeSound();
         bird.makeSound();
         cat.makeSound();
-        
     }
-    
-    
 }

@@ -8,7 +8,7 @@ package _0001animal.bird.cat;
  *
  * @author 62852
  */
-public class Bird extends Animal{
+public class Bird extends Animal {
     
     @Override
     public void makeSound() {

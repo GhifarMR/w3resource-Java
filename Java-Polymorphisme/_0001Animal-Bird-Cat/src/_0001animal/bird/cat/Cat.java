@@ -8,10 +8,10 @@ package _0001animal.bird.cat;
  *
  * @author 62852
  */
-public class Cat {
+public class Cat extends Animal{
     
+    @Override
     public void makeSound() {
         System.out.println("The cat meows");
     }
-    
 }
